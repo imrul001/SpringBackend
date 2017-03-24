@@ -71,6 +71,5 @@ public class SimpleSpringDao {
 			employee.setSalary(resultSet.getInt("salary"));
 			return employee;
 		}
-
 	}
 }
